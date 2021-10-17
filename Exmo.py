@@ -8,7 +8,7 @@ import hmac, hashlib
 
 
 API_KEY = 'K-1925cb5ca54c3'
-API_SECRET = b'S-db54b5c110f5b'
+API_SECRET = b'S-db54b5c110f5bdfgdfg'
 
 
 CURRENCY_1 = 'BTC'
